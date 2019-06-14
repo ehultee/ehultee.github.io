@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Climate science, University of Michigan, 2018
-  *Dissertation title: Constraints on the Dynamic Contribution to 21st century sea level rise from Greenland outlet glaciers
+  * Dissertation title: Constraints on the dynamic contribution to 21st century sea level rise from Greenland outlet glaciers
 * B.Sc.H. in Mathematical physics, Queen's University, 2013
 
 Work experience

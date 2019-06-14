@@ -35,6 +35,7 @@ Work experience
 
 * 2011: University of Toronto
   * Undergraduate Research Intern, Centre for Global Change Science
+    * Area of focus: Influence of surface hydrology on gravimetry estimates of polar ice loss
     * Advisor: W. Richard Peltier
   
 Skills

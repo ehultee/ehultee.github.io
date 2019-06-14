@@ -27,7 +27,8 @@ Work experience
     * Areas of focus: Numerical modelling of glacier dynamics, sea level change
     * Advisor: Jeremy Bassis
   * Course instructor, "Knowing Climate Change"
-  * Community-based learning consultant
+  * Course consultant, Office for Community-Engaged Academic Learning
+    * Supervisor: Denise Galarza Sepulveda
 
 * 2010--2012: Queen's University
   * Mathematics Tutor, Dept. of Athletics

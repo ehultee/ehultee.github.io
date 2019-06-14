@@ -11,30 +11,48 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Climate science, University of Michigan, 2018
+  *Dissertation title: Constraints on the Dynamic Contribution to 21st century sea level rise from Greenland outlet glaciers
+* B.Sc.H. in Mathematical physics, Queen's University, 2013
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018--present: Massachusetts Institute of Technology
+  * Postdoctoral Associate
+    * Areas of focus: Ice fracture, glacial water resources, UAV glacier surveying
+    * Advisor: Brent Minchew
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2014--2018: University of Michigan
+  * Graduate Research Assistant
+    * Areas of focus: Numerical modelling of glacier dynamics, sea level change
+    * Advisor: Jeremy Bassis
+  * Course instructor, "Knowing Climate Change"
+  * Community-based learning consultant
+
+* 2010--2012: Queen's University
+  * Mathematics Tutor, Dept. of Athletics
+    * Courses tutored: Differential & integral calculus, Calculus for the life sciences, Elementary linear algebra, Ordinary differential equations
+
+* 2011: University of Toronto
+  * Undergraduate Research Intern, Centre for Global Change Science
+    * Advisor: W. Richard Peltier
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computing
+  * Python
+  * Mathematica
+  * LaTeX
+  * GitHub version control
+* Languages
+  * Dutch (fluent)
+  * Spanish (good)
+  * German (fair)
+  * French (fair)
+* Interpersonal
+  * Facilitation
+  * Mentoring
+  * Nonprofit management
 
 Publications
 ======
@@ -56,4 +74,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer, Journal of Advances in Modelling of the Earth System
+* Reviewer, Intergovernmental Panel on Climate Change, Second Order Draft of the Special Report on Oceans and Cryosphere in a Changing Climate
+* Organizing committee chair, Michigan University-wide Sustainability & Environment Conference 
+* Skype a Scientist calls with 4 elementary and middle school classrooms

@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 1"
+title: "Collaborative creation and implementation of a Michigan Sustainability Case on urban farming in Detroit"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2018-06-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2018-06-01
+venue: 'Case Studies in the Environment'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Boone, L., Ultee, L., Waisanen, E., Newell, J., Thorne, J.A. and Hardin, R.. (2018). &quot;Collaborative creation and implementation of a Michigan Sustainability Case on urban farming in Detroit.&quot; <i>Case Studies in the Environment</i>. '
 ---
+
+<a href='http://academicpages.github.io/files/paper1.pdf'>Download paper here</a>
+
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Boone, L., Ultee, L., Waisanen, E., Newell, J., Thorne, J.A. and Hardin, R.. (2018). "Collaborative creation and implementation of a Michigan Sustainability Case on urban farming in Detroit." <i>Case Studies in the Environment</i>. 

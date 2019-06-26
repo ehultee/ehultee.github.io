@@ -1,5 +1,15 @@
 title	type	url_slug	venue	date	location	talk_url	description
-Talk 1 on Relevant Topic in Your Field	Talk	talk-1	UC San Francisco, Department of Testing	2012-03-01	San Francisco, California		This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Tutorial 1 on Relevant Topic in Your Field	Tutorial	tutorial-1	UC-Berkeley Institute for Testing Science	2013-03-01	Berkeley CA, USA	http://exampleurl.com	This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Talk 2 on Relevant Topic in Your Field	Talk	talk-2	London School of Testing	2014-02-01	London, UK	http://example2.com	This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Conference Proceeding talk 3 on Relevant Topic in Your Field	Conference proceedings talk	talk-3	Testing Institute of America 2014 Annual Conference	2014-03-01	Los Angeles, CA		This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+Cauldron collapse provides natural laboratory to constrain ice-fracture thresholds	Talk	AGU-18	American Geophysical Union Fall Meeting	2018-12-12	Washington, DC		[Talk description]
+Modelling the calving contribution to sea level from Alaska and Greenland	Talk	POLAR-18	POLAR 2018	2018-06-25	Davos, Switzerland		[]
+Glacial geoengineering	Workshop	MUSE-workshop-18	Michigan University-wide Sustainability & Environment Workshop	2018-04-10	Ann Arbor, MI, USA		
+Explicit simulation of networks of outlet glaciers to constrain Greenland’s sea level contribution	Talk	AGU-17	American Geophysical Union Fall Meeting 2018-12-16	New Orleans, LA, USA		
+Little ice bodies, huge ice lands, and the up-going of the big water body	Talk	AGU-UpGoer-17	American Geophysical Union Fall Meeting	2018-12-16	New Orleans, LA, USA		Part of the Up-Goer Five Challenge, in which scientists attempt to explain their research using only the 1000 most common words in the English language.
+Shaping glaciology for sea-level adaptation	Talk	GCC-17	Graduate Climate Conference	2017-10-08	Woods Hole, MA, USA		
+Calving glacier networks simulated with a simple approximation	Tutorial	Bremen-17	University of Bremen	2017-07-01	Bremen, Germany		Research visit to Open Global Glacier Model development group
+A model to constrain 21st-Century sea level rise from tidewater glaciers	Talk	AGU-16	American Geophysical Union Fall Meeting	2016-12-10	San Francisco, CA, USA		
+Sea level rise: Alaska’s global contribution and local effects	Talk	ALF-16	Aleutian Life Forum	2016-08-20	Unalaska, AK, USA	http://www.aleutianlifeforum.com/presentations/	
+What is community-engaged glaciology?	Workshop	ISSG-16	International Summer School in Glaciology	2016-06-15	McCarthy, AK, USA		
+Plastic tidewater glacier networks	Talk	CPT-16	Geophysical Fluid Dynamics Laboratory	2016-04-25	Princeton, NJ, USA		Presentation for working group meeting of the NOAA Climate Process Team on Iceberg Calving
+Perfect plastic approximation revisited: a flowline network model for calving glaciers	Talk	AGU-15	American Geophysical Union Fall Meeting	2015-12-12	San Francisco, CA, USA		
+Simplified glacier dynamics	Talk	SIAM-15	Society for Industrial and Applied Mathematics Student Conference	2015-06-15	Ann Arbor, MI, USA		
+A simplified glacier dynamics model: Perfect plastic revisited	Talk	MGU-15	Michigan Geophysical Union	2015-04-01	Ann Arbor, MI, USA

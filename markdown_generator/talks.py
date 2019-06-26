@@ -33,7 +33,7 @@ import os
 
 # In[3]:
 
-talks = pd.read_csv("talks.tsv", sep="\t", header=0)
+talks = pd.read_csv("~/Documents/GitHub/ehultee.github.io/markdown_generator/talks.tsv", sep="\t", header=0)
 talks
 
 
@@ -103,7 +103,7 @@ for row, item in talks.iterrows():
     md_filename = os.path.basename(md_filename)
     #print(md)
     
-    with open("../_talks/" + md_filename, 'w') as f:
+    with open("/Users/ehultee/Documents/GitHub/ehultee.github.io/_talks/" + md_filename, 'w') as f:
         f.write(md)
 
 

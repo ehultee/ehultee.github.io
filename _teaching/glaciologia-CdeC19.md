@@ -3,7 +3,7 @@ title: "Glaciología y recursos hídricos"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/glaciologia-CdeC19
-venue: "Clubes de Ciencia, Sede Universidad Nacional de la Ingeniería"
+venue: "Clubes de Ciencia, Sede Universidad Nacional de Ingeniería"
 date: 2015-01-01
 location: "Lima, Peru"
 ---
@@ -25,5 +25,5 @@ Total time and possible adaptations
 ======
 36 hours of workshop time, including a 2-hr hands-on lab and about 16 hours of computational lab time.
 
-The course is easily modifiable to offer as a semester-long introduction to glaciology course.  The Clubes de Ciencia format, in which workshop participants varied widely in background, have demonstrated this course's utility as a science elective accessible across disciplines.  
+The course is easily modifiable to offer as a semester-long introduction to glaciology course.  The Clubes de Ciencia format, in which workshop participants varied widely in background, demonstrated this course's utility as a science elective accessible across disciplines.  
 Depending on student/department interest, the course could add more technical material in glacier mechanics, hydrology, environmental engineering, science policy, or scientific programming.

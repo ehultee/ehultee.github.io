@@ -18,7 +18,7 @@ Usually, the ice at Eastern Skaftá ice cauldron, Iceland, is supported by some 
 The resulting deformation is large and rapid.  We are fortunate to have ArcticDEM observations of the ice surface elevation from very shortly after an October 2015 collapse of
 the Eastern Skaftá Cauldron.  
 
-![Skafta-transects](/images/20190822-transect_compos.jpeg)
+![Skafta-transects](http://ehultee.github.io/images/20190822-transect_compos.jpeg)
 
 The image above shows the difference in ice surface elevation, in m, before and after the cauldron's 2015 collapse.  At right are transects sampling the observed pre- and post-collapse surfaces (dashed and solid black lines, respectively).
 In solid green, you can see a deformation profile calculated using a linear elastic rheology.  Dashed green lines show profiles resulting from continued viscous deformation after an initial elastic drop.  

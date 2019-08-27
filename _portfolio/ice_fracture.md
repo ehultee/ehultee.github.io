@@ -1,6 +1,6 @@
 ---
 title: "Ice fracture"
-excerpt: "Material conditions that permit fracture in glacier ice<br/><img src='/images/skaftarkatlar-2015-atlantsflug.jpg'>"
+excerpt: "Material conditions that permit fracture in glacier ice<br/><img src='/images/skaftarkatlar-2015-atlantsflug.jpg', style="width:500px;height:300px;">"
 collection: portfolio
 ---
 

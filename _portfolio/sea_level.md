@@ -18,7 +18,7 @@ Below is an animation of a SERMeQ-simulated retreat on Columbia Glacier, Alaska.
 a centerline. The grey glacier ice flows from figure left to right over bedrock (brown) down to the sea (blue).  Observed glacier profiles appear
 in purple for comparison.
 
-![Animation of Columbia Glacier, AK](../files/Columbia-1980_2010-retreat.gif)
+![Animation of Columbia Glacier, AK](https://ehultee.github.io/files/Columbia-1980_2010-retreat.gif)
 
 
 ## Collaborators

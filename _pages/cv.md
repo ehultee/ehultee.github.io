@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Download full CV [here](http://ehultee.github.io/files/CV-EHU-Master20.pdf) (last update: 2 Jan 2020).  
+Download full CV [here](http://ehultee.github.io/files/CV-EHU-Master20.pdf) (last update: 19 Feb 2020).  
 
 {% include base_path %}
 
@@ -16,12 +16,13 @@ Education
 * Ph.D in Climate science, University of Michigan, 2018
   * Dissertation title: Constraints on the dynamic contribution to 21st century sea level rise from Greenland outlet glaciers
 * B.Sc.H. in Mathematical physics, Queen's University, 2013
+  * Honours thesis title: Energy conditions with nonzero cosmological constant
 
 Work experience
 ======
 * 2018--present: Massachusetts Institute of Technology
   * Postdoctoral Associate
-    * Areas of focus: Ice fracture, glacial water resources, UAV glacier surveying
+    * Areas of focus: Ice fracture, UAV glacier surveying, glacial water resources
     * Advisor: Brent Minchew
 
 * 2014--2018: University of Michigan
@@ -78,6 +79,7 @@ Teaching
   
 Service and leadership
 ======
+* Reviewer, Geoscientific Model Development
 * Reviewer, Journal of Advances in Modelling of the Earth System
 * Reviewer, Intergovernmental Panel on Climate Change, Second Order Draft of the Special Report on Oceans and Cryosphere in a Changing Climate
 * Organizing committee chair, Michigan University-wide Sustainability & Environment Conference 

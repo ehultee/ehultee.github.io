@@ -25,6 +25,8 @@ In solid green, you can see a deformation profile calculated using a linear elas
 Notice also that you can see ice surface crevasses near the edges of the cauldron in the ArcticDEM observations.
 We use the locations of those crevasses, and the stresses associated with the ice deformation, to estimate how much stress glacier ice can withstand before it breaks.
 
+You can check out the code for viscoelastic cauldron collapse (using the wicked-cool correspondence principle, which relates elastic and viscoelastic solutions through a Laplace transform) in [this GitHub repo](https://github.com/ehultee/VE-cauldrons).  To run it you'll need some data files that are too big to store on GitHub--please email me if you need them.
+
 
 ## Collaborators
 Colin Meyer (Dartmouth), Brent Minchew (MIT), Alex Robel (Georgia Tech), Tómas Jóhannesson (Icelandic Met Office)

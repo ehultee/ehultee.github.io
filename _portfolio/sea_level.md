@@ -18,6 +18,11 @@ in purple for comparison.
 
 ![Animation of Columbia Glacier, AK](https://ehultee.github.io/files/Columbia-1980_2010-retreat.gif)
 
+You can check out the core model code for SERMeQ in the labelled subfolder of [this GitHub repo](http://github.com/ehultee/plastic-networks).  SERMeQ is under active (re)development; please do drop a line with any questions about your specific use case.
 
 ## Collaborators
 Jeremy Bassis (University of Michigan)
+
+## Extensions
+Perhaps the most exciting use of SERMeQ is as a module within a more sophisticated global model.  For example, SERMeQ could produce a calving criterion to describe a moving ice-ocean boundary in Earth system models.  Please get in touch if you're interested in exploring this idea.
+Be on the lookout as well for the core physics of SERMeQ to be incorporated into a new module of the Open Global Glacier Model: expected later in 2020!

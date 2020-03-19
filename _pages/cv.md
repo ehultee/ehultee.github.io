@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Download full CV [here](http://ehultee.github.io/files/CV-EHU-Master20.pdf) (last update: 19 Feb 2020).  
+Download full CV [here](http://ehultee.github.io/files/CV-EHU-Master20.pdf) (last update: 19 Mar 2020).  
 
 {% include base_path %}
 

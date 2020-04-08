@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Download full CV [here](http://ehultee.github.io/files/CV-EHU-Master20.pdf) (last update: 19 Mar 2020).  
+Download full CV [here](http://ehultee.github.io/files/CV-EHU-Master20.pdf) (last update: 6 Apr 2020).  
 
 {% include base_path %}
 
@@ -32,6 +32,9 @@ Work experience
   * Course instructor, "Knowing Climate Change"
   * Course consultant, Office for Community-Engaged Academic Learning
     * Supervisor: Denise Galarza Sepulveda
+
+* 2013-2014: AIESEC UK
+	* National Vice President for Organizational Development
 
 * 2010--2012: Queen's University
   * Mathematics Tutor, Dept. of Athletics
@@ -79,8 +82,7 @@ Teaching
   
 Service and leadership
 ======
-* Reviewer, Geoscientific Model Development
-* Reviewer, Journal of Advances in Modelling of the Earth System
-* Reviewer, Intergovernmental Panel on Climate Change, Second Order Draft of the Special Report on Oceans and Cryosphere in a Changing Climate
+* Panel reviewer, NASA Cryosphere section
+* Reviewer, Geoscientific Model Development, Journal of Advances in Modelling of the Earth System, Frontiers in Earth Sciences; IPCC Special Report on Oceans and Cryosphere in a Changing Climate
 * Organizing committee chair, Michigan University-wide Sustainability & Environment Conference 
-* Skype a Scientist calls with 4 elementary and middle school classrooms
+* Skype a Scientist calls with 5 K-12 classrooms

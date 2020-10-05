@@ -68,11 +68,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+<!-- 
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+ -->
   
 Teaching
 ======
@@ -82,7 +84,8 @@ Teaching
   
 Service and leadership
 ======
+* MIT EAPS Diversity, Equity, and Inclusion Committee
 * Panel reviewer, NASA Cryosphere section
-* Reviewer, Geoscientific Model Development, Journal of Advances in Modelling of the Earth System, Frontiers in Earth Sciences; IPCC Special Report on Oceans and Cryosphere in a Changing Climate
+* Reviewer: Geoscientific Model Development, Journal of Advances in Modelling of the Earth System, Frontiers in Earth Sciences; IPCC Special Report on Oceans and Cryosphere in a Changing Climate
 * Organizing committee chair, Michigan University-wide Sustainability & Environment Conference 
 * Skype a Scientist calls with 5 K-12 classrooms

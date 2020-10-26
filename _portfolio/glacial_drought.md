@@ -41,6 +41,6 @@ Our first study found considerable inter-model spread.  We hope to follow up on 
 uncertainty that creates that spread, and perhaps diagnose priority areas for improved land-ice 
 parameterizations in Earth system models.
 
-What's more, we've assumed that liquid glacial runoff becomes immediately available in the basin.  
-It would be great to extend our analysis in more detailed basin-scale studies, accounting for 
+What's more, we've assumed that liquid glacial runoff becomes immediately available in the 
+basin. It would be great to extend our analysis in more detailed basin-scale studies, accounting for 
 interactions between glaciers, regional hydroclimate, groundwater, and mountain wetlands.

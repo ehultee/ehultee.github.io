@@ -10,8 +10,8 @@ breaking off of icebergs, or changes in glacier flow.  The latter two comprise "
 in projections of 21st-century sea level change.
 
 I have written a model called SERMeQ - the Simple Estimator of Retreat Magnitude and ice flux (Q) - 
-to produce an upper-bound estimate on calving glaciers' contribution to 21st-century sea level rise.  
-The model is applicable to any marine-terminating glacier whose front is not floating.  One 
+to produce an upper-bound estimate on calving glaciers' contribution to 21st-century sea level 
+rise. The model is applicable to any marine-terminating glacier whose front is not floating.  One 
 important application is to study changes on each of the 200 outlet glaciers draining the Greenland Ice Sheet.
 
 ## Example

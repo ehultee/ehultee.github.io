@@ -31,7 +31,16 @@ There are no dynamic mountain glaciers in the example above, so the SPEI calcula
 ## Collaborators
 Sloan Coats (University of Hawaii)
 
-## Extensions
-Our first study found considerable inter-model spread.  We hope to follow up on the structural uncertainty that creates that spread, and perhaps diagnose priority areas for improved land-ice parameterizations in Earth system models.
+## Publications
+Ultee, L. and Coats, S. (2020 <i>preprint</i>). 'Glacial runoff buffers drought through the 
+21st century---but models disagree on the details.' Manuscript in revision; preprint available
+on ESSOAr, <a href='https://doi.org/10.1002/essoar.10502321.3'>doi:10.1002/essoar.10502321.3</a>
 
-What's more, we've assumed that liquid glacial runoff becomes immediately available in the basin.  It would be great to extend our analysis in more detailed basin-scale studies, accounting for interactions between glaciers, regional hydroclimate, groundwater, and mountain wetlands.
+## Extensions
+Our first study found considerable inter-model spread.  We hope to follow up on the structural 
+uncertainty that creates that spread, and perhaps diagnose priority areas for improved land-ice 
+parameterizations in Earth system models.
+
+What's more, we've assumed that liquid glacial runoff becomes immediately available in the basin.  
+It would be great to extend our analysis in more detailed basin-scale studies, accounting for 
+interactions between glaciers, regional hydroclimate, groundwater, and mountain wetlands.

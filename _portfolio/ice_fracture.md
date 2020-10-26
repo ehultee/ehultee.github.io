@@ -31,6 +31,20 @@ You can check out the code for viscoelastic cauldron collapse (using the wicked-
 ## Collaborators
 Colin Meyer (Dartmouth), Brent Minchew (MIT), Alex Robel (Georgia Tech), Tómas Jóhannesson (Icelandic Met Office)
 
+## Publications
+Ultee, L., Meyer, C. R. and Minchew, B. M. (2020). "Tensile strength of glacial ice deduced 
+from observations of the 2015 eastern Skaftá cauldron collapse, Vatnajökull ice cap, Iceland." 
+<i>Journal of Glaciology</i> <a href='https://doi.org/10.1017/jog.2020.65'>doi:10.1017/jog.2020.65</a>
+
+Bassis, J. N. and Ultee, L. (2019). &quot;A thin film viscoplastic theory for calving 
+glaciers:toward a bound on the calving rate of glaciers.&quot; <i>Journal of Geophysical 
+Research: Earth Surface</i> 124. <a href='https://doi.org/10.1029/2019JF005160'>doi:10.1029/2019JF005160</a>
+
+Ultee, L. and Bassis, J. N. (2016). &quot;The future is Nye: an extension of the perfect 
+plastic approximation to tidewater glaciers.&quot; <i>Journal of Glaciology</i>. 62(236): 
+1143-1152. <a href='https://doi.org/10.1017/jog.2016.108'>doi: 10.1017/jog.2016.108</a>
+
+
 ## Extensions
 Findings about the material properties of ice can inform process modelling and broader-scale model parameterizations of iceberg calving.
 Further, the study of ice deformation and fracture has appealing similarities to the study of rock deformation and fracture.

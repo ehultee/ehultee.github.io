@@ -10,17 +10,17 @@ citation: 'Ultee, L. and Bassis, J. N. (2020). &quot;SERMeQ model produces a rea
 ---
 
 Sea-level change affects coastal communities worldwide.  As glaciers and ice sheets lose 
-their ice, the water they once stored can be transferred to the ocean and affect global sea level.  
-We use computer simulators to understand how fast that transfer of ice to the ocean can happen.  
-However, current simulations give different estimates of solid ice export (“iceberg calving”) 
-from the ice sheets.  It is especially challenging to simulate iceberg calving from the 
-hundreds of glaciers that drain ice from the Greenland Ice Sheet to the ocean, because 
-those glaciers are smaller than most large-scale computer simulators can distinguish.  
+their ice, the water they once stored can be transferred to the ocean and affect global 
+sea level.  We use computer simulators to understand how fast that transfer of ice to the 
+ocean can happen. However, current simulations give different estimates of solid ice export 
+(“iceberg calving”) from the ice sheets.  It is especially challenging to simulate iceberg 
+calving from the hundreds of glaciers that drain ice from the Greenland Ice Sheet to the ocean, 
+because those glaciers are smaller than most large-scale computer simulators can distinguish. 
 We have developed a new simulator to estimate a fastest-possible rate of ice loss to iceberg 
 calving.  Here, we apply it to 155 glaciers draining the Greenland Ice Sheet.  This allows 
 us to test our method on five times as many glaciers as was previously possible.  We show 
 that our simulator does provide an upper limit on observed rates of glacier change, and 
-that the simulated patterns of change over time are representative of observed patterns.  
+that the simulated patterns of change over time are representative of observed patterns. 
 Our method can be applied to estimate the maximum physically plausible contribution to global 
 sea level change from the Greenland Ice Sheet, under a range of future climate scenarios.
 

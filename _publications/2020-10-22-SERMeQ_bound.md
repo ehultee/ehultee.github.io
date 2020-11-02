@@ -5,7 +5,7 @@ permalink: /publication/2020-SERMeQ_bound
 excerpt: 'How does our theoretical speed limit on glacier retreat hold up in Greenland?'
 date: 2020-10-22
 venue: 'Geophysical Research Letters'
-paperurl: 'http://ehultee.github.io/files/grl-2020-prepub.pdf'
+paperurl: 'http://ehultee.github.io/files/2020GL090213.pdf'
 citation: 'Ultee, L. and Bassis, J. N. (2020). &quot;SERMeQ model produces a realistic upper bound on calving retreat for 155 Greenland outlet glaciers.&quot; <i>Geophysical Research Letters</i> Accepted article online. doi:10.1029/2020GL090213'
 ---
 
@@ -24,5 +24,5 @@ that the simulated patterns of change over time are representative of observed p
 Our method can be applied to estimate the maximum physically plausible contribution to global 
 sea level change from the Greenland Ice Sheet, under a range of future climate scenarios.
 
-Download paper <a href='http://ehultee.github.io/files/grl-2020-prepub.pdf'>here</a>
+Download paper <a href='http://ehultee.github.io/files/2020GL090213.pdf'>here</a>
 and supplementary material <a href='http://ehultee.github.io/files/grl-2020-suppinfo.pdf'>here</a>.

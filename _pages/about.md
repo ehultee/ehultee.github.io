@@ -7,6 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a glaciologist, which can mean: climate scientist, physicist, applied mathematician, and more.  My work in this inherently interdisciplinary field focuses on describing how glaciers and ice sheets lose mass through ice fracture.  Check out what I'm working on now at the "Current projects" tab above.
+I am a glaciologist, which can mean: climate scientist, physicist, applied mathematician, 
+and more.  My work in this inherently interdisciplinary field focuses on describing the processes
+and downstream (societal) impacts of glacier and ice sheet change.  
+Check out what I'm working on now at the "Current projects" tab above.
 
-Alongside my scientific interests, I have long been involved in volunteering and NGO administration related to intercultural education & exchange.  Outside of work, I enjoy photography, spending time outdoors, and playing in symphony orchestras.
+From July 2021, I will be an Assistant Professor of Geology at Middlebury College, Vermont.
+Middlebury students interested in working with me are encouraged to get in touch by email.
+
+Alongside my scientific career, I have long been involved in volunteering and nonprofit administration 
+related to intercultural education & exchange.  Outside of work, I enjoy photography, 
+spending time outdoors, and playing in symphony orchestras.

@@ -20,7 +20,12 @@ Education
 
 Work experience
 ======
-* 2018--present: Massachusetts Institute of Technology
+* 2021--present: Georgia Institute of Technology
+  * Postdoctoral Fellow
+    * Areas of focus: Ice sheet surface mass balance, stochastic modelling
+    * Advisor: Alex Robel
+
+* 2018--2021: Massachusetts Institute of Technology
   * Postdoctoral Associate
     * Areas of focus: Ice fracture, UAV glacier surveying, glacial water resources
     * Advisor: Brent Minchew

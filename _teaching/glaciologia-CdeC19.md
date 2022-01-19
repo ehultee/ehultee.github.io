@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/glaciologia-CdeC19
 venue: "Clubes de Ciencia, Sede Universidad Nacional de Ingeniería"
-date: 2015-01-01
+date: 2019-07-01
 location: "Lima, Peru"
 ---
 

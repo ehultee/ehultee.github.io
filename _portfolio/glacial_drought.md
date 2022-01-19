@@ -29,12 +29,12 @@ There are no dynamic mountain glaciers in the example above, so the SPEI calcula
  You can explore the data for all 56 basins using the Jupyter notebook and helper code in [this Github repo](https://github.com/ehultee/glacial-SPEI).
 
 ## Collaborators
-Sloan Coats (University of Hawaii)
+Sloan Coats (University of Hawaii) and Jon Mackay (British Geological Survey)
 
 ## Publications
-Ultee, L. and Coats, S. (2020 <i>preprint</i>). 'Glacial runoff buffers drought through the 
-21st century---but models disagree on the details.' Manuscript in revision; preprint available
-on ESSOAr, <a href='https://doi.org/10.1002/essoar.10502321.3'>doi:10.1002/essoar.10502321.3</a>
+Ultee, L., Coats, S., and Mackay, J. (2021 <i>preprint</i>). 'Glacial runoff buffers drought through the 
+21st century.' Discussion paper at 
+<a href='https://esd.copernicus.org/preprints/esd-2021-94/'>Earth System Dynamics Discussions</a>.
 
 ## Extensions
 Our first study found considerable inter-model spread.  We hope to follow up on the structural 

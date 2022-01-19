@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Dr. Lizz Ultee"
   avatar           : "EHU-websitephoto.jpg"
-  bio              : "Postdoctoral fellow at Georgia Tech, specializing in glacier and ice sheet change"
-  location         : "Cambridge, MA, USA"
+  bio              : "Asst. Prof. at Middlebury College, specializing in glacier and ice sheet change"
+  location         : "Middlebury, VT, USA"
   links:
     - label : "Download CV"
       icon : "fab fa-fw fa-bars"

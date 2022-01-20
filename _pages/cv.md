@@ -7,7 +7,9 @@ redirect_from:
   - /resume
 ---
 
-Download full CV [here](http://ehultee.github.io/files/CV-EHU-Public20.pdf) (last update: 6 Apr 2020).  
+Download short-form CV [here](http://ehultee.github.io/files/EHU-short_CV-20220119.pdf) (last update: 19 Jan 2022).
+
+Slightly dated, long-form CV [here](http://ehultee.github.io/files/CV-EHU-Public20.pdf) (last update: 6 Apr 2020).  
 
 {% include base_path %}
 
@@ -20,7 +22,11 @@ Education
 
 Work experience
 ======
-* 2021--present: Georgia Institute of Technology
+* 2021--: Middlebury College
+  * Assistant Professor of Geology
+    * Scholarly focus: Glaciology and modern climate
+
+* 2021: Georgia Institute of Technology
   * Postdoctoral Fellow
     * Areas of focus: Ice sheet surface mass balance, stochastic modelling
     * Advisor: Alex Robel
@@ -91,6 +97,6 @@ Service and leadership
 ======
 * MIT EAPS Diversity, Equity, and Inclusion Committee
 * Panel reviewer, NASA Cryosphere section
-* Reviewer: Geoscientific Model Development, Journal of Advances in Modelling of the Earth System, Frontiers in Earth Sciences; IPCC Special Report on Oceans and Cryosphere in a Changing Climate
+* Reviewer: Nature, GRL, Global Environmental Change, The Cryosphere, Geosci. Model Dev., JAMES, Frontiers in Earth Sciences; IPCC Special Report on Oceans and Cryosphere in a Changing Climate
 * Organizing committee chair, Michigan University-wide Sustainability & Environment Conference 
 * Skype a Scientist calls with 5 K-12 classrooms

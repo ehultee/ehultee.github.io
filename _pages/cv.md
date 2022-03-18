@@ -13,6 +13,16 @@ Slightly dated, long-form CV [here](http://ehultee.github.io/files/CV-EHU-Public
 
 {% include base_path %}
 
+Current appointment
+======
+* 2021--: Middlebury College
+  * Assistant Professor of Geology
+    * Scholarly focus: Glaciology and modern climate
+   
+Major awards
+======
+* [Early Career Scientist Award](https://www.igsoc.org/awards/earlycareeraward/ultee.html) -- International Glaciological Society, 2021
+
 Education
 ======
 * Ph.D in Climate science, University of Michigan, 2018
@@ -20,15 +30,9 @@ Education
 * B.Sc.H. in Mathematical physics, Queen's University, 2013
   * Honours thesis title: Energy conditions with nonzero cosmological constant
 
-Major awards
-======
-* [Early Career Scientist Award](https://www.igsoc.org/awards/earlycareeraward/ultee.html) -- International Glaciological Society, 2021
 
-Current appointment
-======
-* 2021--: Middlebury College
-  * Assistant Professor of Geology
-    * Scholarly focus: Glaciology and modern climate
+
+
 
 Past appointments
 ======

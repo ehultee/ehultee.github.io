@@ -51,4 +51,4 @@ plastic approximation to tidewater glaciers.&quot; <i>Journal of Glaciology</i>.
 
 ## Extensions
 Perhaps the most exciting use of SERMeQ is as a module within a more sophisticated global model.  For example, SERMeQ could produce a calving criterion to describe a moving ice-ocean boundary in Earth system models.  Please get in touch if you're interested in exploring this idea.
-Be on the lookout as well for the core physics of SERMeQ to be incorporated into a new module of the Open Global Glacier Model: expected later in 2020!
+Be on the lookout as well for the core physics of SERMeQ to be incorporated into a new module of the Open Global Glacier Model: development proceeding in 2022!

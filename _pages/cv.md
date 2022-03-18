@@ -20,12 +20,18 @@ Education
 * B.Sc.H. in Mathematical physics, Queen's University, 2013
   * Honours thesis title: Energy conditions with nonzero cosmological constant
 
-Work experience
+Major awards
+======
+* [Early Career Scientist Award](https://www.igsoc.org/awards/earlycareeraward/ultee.html) -- International Glaciological Society, 2021
+
+Current appointment
 ======
 * 2021--: Middlebury College
   * Assistant Professor of Geology
     * Scholarly focus: Glaciology and modern climate
 
+Past appointments
+======
 * 2021: Georgia Institute of Technology
   * Postdoctoral Fellow
     * Areas of focus: Ice sheet surface mass balance, stochastic modelling
@@ -33,7 +39,7 @@ Work experience
 
 * 2018--2021: Massachusetts Institute of Technology
   * Postdoctoral Associate
-    * Areas of focus: Ice fracture, UAV glacier surveying, glacial water resources
+    * Areas of focus: Ice fracture, remote sensing analysis, glacial water resources
     * Advisor: Brent Minchew
 
 * 2014--2018: University of Michigan

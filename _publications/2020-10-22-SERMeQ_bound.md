@@ -6,7 +6,7 @@ excerpt: 'How does our theoretical speed limit on glacier retreat hold up in Gre
 date: 2020-10-22
 venue: 'Geophysical Research Letters'
 paperurl: 'http://ehultee.github.io/files/2020GL090213.pdf'
-citation: 'Ultee, L. and Bassis, J. N. (2020). &quot;SERMeQ model produces a realistic upper bound on calving retreat for 155 Greenland outlet glaciers.&quot; <i>Geophysical Research Letters</i> Accepted article online. doi:10.1029/2020GL090213'
+citation: 'Ultee, L. and Bassis, J. N. (2020). &quot;SERMeQ model produces a realistic upper bound on calving retreat for 155 Greenland outlet glaciers.&quot; <i>Geophysical Research Letters</i> 47(21): e2020GL090213. doi:10.1029/2020GL090213'
 ---
 
 Sea-level change affects coastal communities worldwide.  As glaciers and ice sheets lose 

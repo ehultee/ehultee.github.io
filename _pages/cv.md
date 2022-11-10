@@ -9,7 +9,7 @@ redirect_from:
 
 Download short-form CV [here](http://ehultee.github.io/files/EHU-short_CV-20220119.pdf) (last update: 19 Jan 2022).
 
-Slightly dated, long-form CV [here](http://ehultee.github.io/files/CV-EHU-Public20.pdf) (last update: 6 Apr 2020).  
+Longer-form CV [here](http://ehultee.github.io/files/CV-EHU-Public22_v2_.pdf) (last update: 10 Nov 2022).  
 
 {% include base_path %}
 
@@ -66,22 +66,14 @@ Past appointments
     * Area of focus: Influence of surface hydrology on gravimetry estimates of polar ice loss
     * Advisor: W. Richard Peltier
   
-Skills
-======
-* Computing
-  * Python
-  * Mathematica
-  * LaTeX
-  * GitHub version control
-* Languages
-  * Dutch (fluent)
-  * Spanish (good)
-  * German (fair)
-  * French (fair)
-* Interpersonal
-  * Facilitation
-  * Mentoring
-  * Nonprofit management
+Specialized training and certifications
+==============
+* Wilderness First Aid (SOLO certified through 2024)
+* Mental Health First Aid (MHFA USA certified through 2025)
+* Polar safety:
+	* Crevasse rescue and glacier travel (Ice Journey Iceland, trained 2022)
+	* NSF OPP Polar Risk Management (workshop co-organizer, 2021)
+
 
 Publications
 ======
@@ -106,7 +98,24 @@ Teaching
 Service and leadership
 ======
 * MIT EAPS Diversity, Equity, and Inclusion Committee
-* Panel reviewer, NASA Cryosphere section
-* Reviewer: Nature, GRL, Global Environmental Change, The Cryosphere, Geosci. Model Dev., JAMES, Frontiers in Earth Sciences; IPCC Special Report on Oceans and Cryosphere in a Changing Climate
+* Panel reviewer: NASA Cryosphere section, NSF Office of Polar Programs, UK Natural Environment Research Council
+* Reviewer: Nature, GRL, Global Environmental Change, The Cryosphere, Geosci. Model Dev., JAMES, Frontiers in Earth Sciences, Water Resources Research; IPCC Special Report on Oceans and Cryosphere in a Changing Climate
 * Organizing committee chair, Michigan University-wide Sustainability & Environment Conference 
 * Skype a Scientist calls with 5 K-12 classrooms
+
+Other skills
+======
+* Computing
+  * Python
+  * Mathematica
+  * LaTeX
+  * GitHub version control
+* Languages
+  * Dutch (fluent)
+  * Spanish (good)
+  * German (fair)
+  * French (fair)
+* Interpersonal
+  * Facilitation
+  * Mentoring
+  * Nonprofit management

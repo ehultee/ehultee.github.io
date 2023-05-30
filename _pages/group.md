@@ -2,6 +2,7 @@
 permalink: /group
 title: "Group"
 excerpt: "MINT group"
+author_profile: true
 redirect_from: 
   - /group/
   - /group.html

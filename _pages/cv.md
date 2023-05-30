@@ -16,7 +16,7 @@ Longer-form CV [here](http://ehultee.github.io/files/CV-EHU-Public22_v2_.pdf) (l
 Current appointment
 ======
 * 2021--: Middlebury College
-  * Assistant Professor of Geology
+  * Assistant Professor of Earth and Climate Sciences
     * Scholarly focus: Glaciology and modern climate
    
 Major awards

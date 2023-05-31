@@ -1,10 +1,9 @@
 ---
-layout: page
-permalink: /group
-title: "Group"
-excerpt: "MINT group"
+layout: archive
+permalink: /group/
+title: "MINT Group"
 redirect_from: 
-  - /group/
+  - /group
   - /group.html
   - /MINT
 ---

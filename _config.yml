@@ -213,6 +213,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _group
+  - scope:
+      path: ""
+      type: group
+    values:
+      layout: single
+      author_profile: true
   # _teaching
   - scope:
       path: ""

@@ -13,7 +13,7 @@ institutions.  Join us!
 
 ## Current MINT members
 
-**Finn Wimberly** (Physics '24) has worked as a MINT research assistant since Fall 2022.  
+**Finn Wimberly** (Physics '24) has worked as a MINT research assistant since Fall 2022. 
 He analyzes glacial runoff output from different global glacier models to determine how 
 the unique features of each glacier model affect 21st-century projections across scales, 
 from single glacier retreat to large Alpine river basins runoff.  Finn's work involves 
@@ -37,7 +37,7 @@ will be a hydrologist with the US National Parks Service through its Scientists 
 program.
 
 **Mikayla Pascual** (Earth & Climate '22) completed a B.Sc. thesis on the role of sediment
-dynamics in (de?)stabilizing ice sheet advance and retreat. Mikayla In her own words:
+dynamics in modulating ice sheet advance and retreat. In her own words:
 > I grew up in Los Angeles, and I never thought much about glaciers or ice sheets, 
 but I was curious about how anthropogenic effects change the Earth. Science solutions 
 to combat climate change were fascinating to me and fueled my passion for learning. 
@@ -68,7 +68,7 @@ model, [SERMeQ](https://github.com/ehultee/sermeq).
 
 
 
-### Friends of MINT
+## Friends of MINT
 We collaborate actively with groups at several institutions worldwide, both through funded
 projects and through mutual interest.  Do you think you should be listed as a Friend of MINT?
 You're probably right - we love friends.  Drop us a line!

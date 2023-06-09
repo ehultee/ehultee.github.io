@@ -12,7 +12,7 @@ and more.  My work in this inherently interdisciplinary field focuses on describ
 and downstream (societal) impacts of glacier and ice sheet change.  Check out what I'm working 
 on now at the "Current projects" tab above.
 
-As of July 2021, I am an Assistant Professor of Geology at Middlebury College, Vermont.
+At present, I am an Assistant Professor of Earth & Climate Sciences at Middlebury College, Vermont.
 Middlebury students interested in working with me are encouraged to get in touch by email.
 
 Alongside my scientific career, I have long been involved in volunteering and nonprofit administration 

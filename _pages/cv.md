@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-Download short-form CV [here](http://ehultee.github.io/files/EHU-short_CV-20220119.pdf) (last update: 19 Jan 2022).
+Download slightly dated short-form CV [here](http://ehultee.github.io/files/EHU-short_CV-20220119.pdf) (last update: 19 Jan 2022).
 
-Longer-form CV [here](http://ehultee.github.io/files/CV-EHU-Public22_v2_.pdf) (last update: 10 Nov 2022).  
+Longer-form CV [here](http://ehultee.github.io/files/CV-EHU-Public23-20230609.pdf) (last update: 9 Jun 2023).  
 
 {% include base_path %}
 
@@ -98,7 +98,7 @@ Teaching
 Service and leadership
 ======
 * MIT EAPS Diversity, Equity, and Inclusion Committee
-* Panel reviewer: NASA Cryosphere section, NSF Office of Polar Programs, UK Natural Environment Research Council
+* Proposal reviewer: NASA Cryosphere section, NSF Office of Polar Programs, UK Natural Environment Research Council
 * Reviewer: Nature, GRL, Global Environmental Change, The Cryosphere, Geosci. Model Dev., JAMES, Frontiers in Earth Sciences, Water Resources Research; IPCC Special Report on Oceans and Cryosphere in a Changing Climate
 * Organizing committee chair, Michigan University-wide Sustainability & Environment Conference 
 * Skype a Scientist calls with 5 K-12 classrooms

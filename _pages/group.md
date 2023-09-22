@@ -20,7 +20,7 @@ from single glacier retreat to large Alpine river basins runoff.  Finn's work in
 processing large datasets in Python. Thanks to a remote connection to the lab computer, 
 he can do this work from anywhere! When he is not coding, Finn is an avid outdoorsman.
 
-**Evelyn Sorenson** (Earth & Climate '25) is a MINT research assistant for Summer 2023.
+**Evelyn Sorensen** (Earth & Climate '25) is a MINT research assistant for Summer 2023.
 She works on glacier model development, testing a new method for simulating iceberg 
 calving for idealized settings in the Ice sheet and Sea-level System Model (ISSM).
 

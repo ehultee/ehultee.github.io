@@ -20,13 +20,18 @@ from single glacier retreat to large Alpine river basins runoff.  Finn's work in
 processing large datasets in Python. Thanks to a remote connection to the lab computer, 
 he can do this work from anywhere! When he is not coding, Finn is an avid outdoorsman.
 
-**Evelyn Sorensen** (Earth & Climate '25) is a MINT research assistant for Summer 2023.
-She works on glacier model development, testing a new method for simulating iceberg 
-calving for idealized settings in the Ice sheet and Sea-level System Model (ISSM).
+**Aiden Pape** (Computer Science '25) joins MINT as a research assistant for Spring 2024.
+Aiden will develop and document open-source software for multi-variate statistical analysis
+of glaciological observations.
 
 
 
 ## Past MINT members
+**Evelyn Sorensen** (Earth & Climate '25) was a MINT research assistant for Summer 2023.
+She worked on glacier model development, testing a new method for simulating iceberg 
+calving in the Ice sheet and Sea-level System Model (ISSM).  Evelyn passed away in 
+September 2023. MINT mourns the loss of our brilliant, cherished group member.
+
 
 **Molly Arndt** (Earth & Climate '23) completed a B.Sc. thesis on climate-model-derived 
 uncertainties in future glacial water resources at city scale.  She simulated glacial runoff

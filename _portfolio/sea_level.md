@@ -1,5 +1,5 @@
 ---
-title: "Global sea level rise"
+title: "Ice dynamic contribution to sea level"
 excerpt: "How fast can glaciers shed mass to icebergs?<br/><img src='/images/SLE-smb_forced-min2c_ice-example.png'>"
 collection: portfolio
 ---
@@ -24,7 +24,7 @@ in purple for comparison.
 You can check out the core model code for SERMeQ in [this GitHub repo](http://github.com/ehultee/SERMeQ).  SERMeQ is under active (re)development; please do drop a line with any questions about your specific use case.
 
 ## Collaborators
-Jeremy Bassis (University of Michigan), Anna Chau (MIT undergraduate)
+Jeremy Bassis (University of Michigan), Anna Chau (MIT undergraduate), Ruitang Yang (U. Oslo)
 
 
 ## Publications
@@ -50,5 +50,8 @@ plastic approximation to tidewater glaciers.&quot; <i>Journal of Glaciology</i>.
 
 
 ## Extensions
-Perhaps the most exciting use of SERMeQ is as a module within a more sophisticated global model.  For example, SERMeQ could produce a calving criterion to describe a moving ice-ocean boundary in Earth system models.  Please get in touch if you're interested in exploring this idea.
-Be on the lookout as well for the core physics of SERMeQ to be incorporated into a new module of the Open Global Glacier Model: development proceeding in 2022!
+Perhaps the most exciting use of SERMeQ is as a module within a more sophisticated global model.  For example, SERMeQ could produce a calving criterion
+ to describe a moving ice-ocean boundary in Earth system models.  Please get in touch if you're interested in exploring this idea.
+
+Postdoc Ruitang Yang is working to integrate SERMeQ's physics into a new frontal ablation parametrization
+for the global glacier models PyGEM and OGGM.

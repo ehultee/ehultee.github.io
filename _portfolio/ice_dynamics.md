@@ -35,7 +35,7 @@ Leigh Stearns (U. Kansas), Brent Minchew (MIT), Bryan Riel (Zhejiang U.)
 Ultee, L., Felikson, D., Minchew, B., Stearns, L. A., and Riel, B. (2022). "Helheim Glacier ice velocity 
 variability responds to runoff and terminus position change at different timescales."
 <i>Nature Communications</i> 
-<a href=https://doi.org/10.1038/s41467-022-33292-y>doi: 10.1038/s41467-022-33292-y </a>.
+<a href='https://doi.org/10.1038/s41467-022-33292-y'>doi: 10.1038/s41467-022-33292-y </a>.
 
 
 

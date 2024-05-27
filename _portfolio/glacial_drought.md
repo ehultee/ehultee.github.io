@@ -6,7 +6,7 @@ collection: portfolio
 
 
 Studies of future drought risk use output from global climate models to analyse changing water availability.  We know
-that glaciers provide a seasonally important source of fresh water in arid mountain environments, but their effect is often not well
+that glaciers provide a seasonally important source of fresh water in arid mountain environments, but their effect is not well
 captured in global climate models.  What's more, some areas that currently benefit from abundant glacial water supply may see a decline in
 water availability as their basin's glaciers shrink.  How can we account for changing glacial effects in our estimates of future drought risk?
 
@@ -32,15 +32,18 @@ There are no dynamic mountain glaciers in the example above, so the SPEI calcula
 Sloan Coats (University of Hawaii) and Jon Mackay (British Geological Survey)
 
 ## Publications
-Ultee, L., Coats, S., and Mackay, J. (2021 <i>preprint</i>). 'Glacial runoff buffers drought through the 
-21st century.' Discussion paper at 
-<a href='https://esd.copernicus.org/preprints/esd-2021-94/'>Earth System Dynamics Discussions</a>.
+Ultee, L., Coats, S., and Mackay, J. (2022). 'Glacial runoff buffers drought through the 
+21st century.' Editor's highlight paper at 
+<a href='https://esd.copernicus.org/articles/13/935/2022/esd-13-935-2022.html'>Earth System Dynamics</a>.
 
 ## Extensions
-Our first study found considerable inter-model spread.  We hope to follow up on the structural 
-uncertainty that creates that spread, and perhaps diagnose priority areas for improved land-ice 
+Our first study found considerable inter-model spread.  We aim to follow up on the structural 
+uncertainty that creates that spread, and diagnose priority areas for improved mountain hydrology 
 parameterizations in Earth system models.
+
+Our 2022 study also used output from only one glacier model.  Student Finn Wimberly has produced a global intercomparison
+of runoff projections from the three globally-capable glacier models, which will inform ongoing refinements to our work.
 
 What's more, we've assumed that liquid glacial runoff becomes immediately available in the 
 basin. It would be great to extend our analysis in more detailed basin-scale studies, accounting for 
-interactions between glaciers, regional hydroclimate, groundwater, and mountain wetlands.
+interactions between glaciers, regional hydroclimate, groundwater, and mountain wetlands. 

@@ -20,9 +20,12 @@ from single glacier retreat to large Alpine river basins runoff.  Finn's work in
 processing large datasets in Python. Thanks to a remote connection to the lab computer, 
 he can do this work from anywhere! When he is not coding, Finn is an avid outdoorsman.
 
-**Aiden Pape** (Computer Science '25) joins MINT as a research assistant for Spring 2024.
-Aiden will develop and document open-source software for multi-variate statistical analysis
+**Aiden Pape** (Computer Science '25) joined MINT as a research assistant for Spring 2024.
+Aiden is developing and documenting open-source software for multi-variate statistical analysis
 of glaciological observations.
+
+**Rohan Acharya** (Computer Science '27) joined MINT as a research intern for Spring 2024.
+He assists Aiden in troubleshooting code and ensuring results are broadly interpretable.
 
 
 
@@ -37,9 +40,8 @@ September 2023. MINT mourns the loss of our brilliant, cherished group member.
 uncertainties in future glacial water resources at city scale.  She simulated glacial runoff
 to La Paz, Bolivia, through the end of the 21st century using the Open Global Glacier Model
 forced by 10 global climate models.  You can read her thesis via her 
-[Zenodo archive](https://dx.doi.org/10.5281/zenodo.7946884).  As of September 2023, Molly
-will be a hydrologist with the US National Parks Service through its Scientists in Parks
-program.
+[Zenodo archive](https://dx.doi.org/10.5281/zenodo.7946884).  Molly is a hydrologist with the 
+US National Parks Service through its Scientists in Parks program.
 
 **Mikayla Pascual** (Earth & Climate '22) completed a B.Sc. thesis on the role of sediment
 dynamics in modulating ice sheet advance and retreat. In her own words:
@@ -82,13 +84,17 @@ You're probably right - we love friends.  Drop us a line!
 (University of Alaska Fairbanks) is a PhD student working on disentangling
 meltwater-driven and terminus-driven dynamics of Greenland outlet glaciers.  Amy's primary 
 advisor is Martin Truffer (UAF); Lizz sits on her dissertation committee.
+- [**Rodrigo Aguayo**](https://rodaguayo.github.io/) (Vrije Universiteit Brussel) is a postdoctoral scholar
+specializing in climate change impacts on mountain hydrology, especially in Patagonia.  Lizz has
+collaborated with Rodrigo to support his [manuscript](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-2325/) 
+about uncertainty quantification of glacier runoff projections in the Patagonian Andes.
 - [**Ruitang Yang**](https://scholar.google.com/citations?user=P7UUU4kAAAAJ&hl=en) 
 (University of Oslo, Norway) is a postdoctoral scholar working on 
 implementing [SERMeQ-style frontal ablation](https://github.com/ehultee/sermeq-fa) into
 global glacier models.  Ruitang works directly with Regine Hock (UiO); Lizz supports her work
 on theory and code implementation of frontal ablation.
 - [**Jan-Hendrik Malles**](https://scholar.google.com/citations?user=pQ8FhHkAAAAJ&hl=en) 
-(University of Bremen) is a PhD candidate working on ice-ocean interaction in the Open 
-Global Glacier Model.  Jan's primary advisor is Ben Marzeion (Bremen); Lizz has 
+(University of Bremen) completed his PhD on ice-ocean interaction in the Open 
+Global Glacier Model.  Jan's primary advisor was Ben Marzeion (Bremen); Lizz 
 collaborated with Jan to support his [paper](https://www.cambridge.org/core/journals/journal-of-glaciology/article/exploring-the-impact-of-a-frontal-ablation-parameterization-on-projected-21stcentury-mass-change-for-northern-hemisphere-glaciers/1ABFB1057B58B2CC42B0FEE33F346C3F) 
 about 21st-century mass change of marine-terminating glaciers.

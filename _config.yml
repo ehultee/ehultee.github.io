@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lizz Ultee, PhD"
 title_separator          : "-"
 name                     : &name "Lizz Ultee"
-description              : &description "Glaciologist at Georgia Tech School of Earth & Atmospheric Sciences"
+description              : &description "Glaciologist at Middlebury College"
 url                      : https://ehultee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ehultee.github.io"
@@ -113,7 +113,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "LizzUltee"
+  twitter          : # "LizzUltee"
   vine             :
   weibo            :
   xing             :

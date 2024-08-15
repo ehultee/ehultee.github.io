@@ -9,7 +9,7 @@ redirect_from:
 
 Download slightly dated short-form CV [here](http://ehultee.github.io/files/EHU-short_CV-20220119.pdf) (last update: 19 Jan 2022).
 
-Longer-form CV [here](http://ehultee.github.io/files/CV-EHU-Public23-20230609.pdf) (last update: 9 Jun 2023).  
+Longer-form CV [here](http://ehultee.github.io/files/CV-EHU-Public24-20240808.pdf) (last update: 8 Aug 2024).  
 
 {% include base_path %}
 
@@ -75,6 +75,7 @@ Specialized training and certifications
 	* NSF OPP Polar Risk Management (workshop co-organizer, 2021)
 
 
+<!--
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -87,7 +88,7 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
- -->
+
   
 Teaching
 ======
@@ -119,3 +120,4 @@ Other skills
   * Facilitation
   * Mentoring
   * Nonprofit management
+-->

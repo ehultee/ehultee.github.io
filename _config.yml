@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Dr. Lizz Ultee"
   avatar           : "EHU-websitephoto.jpg"
-  bio              : "Asst. Prof. at Middlebury College, specializing in glacier and ice sheet change"
-  location         : "Middlebury, VT, USA"
+  bio              : "Assoc. Research Scientist at NASA Goddard, specializing in glacier and ice sheet change"
+  location         : "Burlington, VT, USA"
   links:
     - label : "Download CV"
       icon : "fab fa-fw fa-bars"

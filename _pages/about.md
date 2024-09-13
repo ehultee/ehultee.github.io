@@ -14,8 +14,8 @@ on now at the "Current projects" tab above.
 
 As of September 2024, I am an Associate Research Scientist at NASA Goddard Space Flight Center
 and Morgan State University, Maryland.  This position affords me much expanded research capacity;
-I would be delighted to brainstorm with new collaborators!  Prospective student interns
-(undergraduate/graduate) and postdoctoral scholars are also encouraged to get in touch.
+I would be delighted to brainstorm with new collaborators!  Prospective student interns 
+and postdoctoral scholars are also encouraged to get in touch.
 
 Prior to my current appointment, I was an assistant professor of Earth & Climate Sciences
 at Middlebury College, Vermont.  I continue to live in Vermont and am happy to connect with

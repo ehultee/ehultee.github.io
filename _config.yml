@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lizz Ultee, PhD"
 title_separator          : "-"
 name                     : &name "Lizz Ultee"
-description              : &description "Glaciologist at Middlebury College"
+description              : &description "Glaciologist"
 url                      : https://ehultee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ehultee.github.io"
@@ -83,13 +83,13 @@ author:
   name             : "Dr. Lizz Ultee"
   avatar           : "EHU-websitephoto.jpg"
   bio              : "Assoc. Research Scientist at NASA Goddard, specializing in glacier and ice sheet change"
-  location         : "Burlington, VT, USA"
+  location         : 
   links:
     - label : "Download CV"
       icon : "fab fa-fw fa-bars"
-      url : "https://ehultee.github.io/files/CV-EHU-Master20.pdf"
+      url : "http://ehultee.github.io/files/CV-EHU-20250128.pdf"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=8STpi94AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"

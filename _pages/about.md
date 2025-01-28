@@ -17,10 +17,6 @@ and Morgan State University, Maryland.  This position affords me much expanded r
 I would be delighted to brainstorm with new collaborators!  Prospective student interns 
 and postdoctoral scholars are also encouraged to get in touch.
 
-Prior to my current appointment, I was an assistant professor of Earth & Climate Sciences
-at Middlebury College, Vermont.  I continue to live in Vermont and am happy to connect with
-local climate initiatives where relevant.
-
 Alongside my scientific career, I have long been involved in volunteering and nonprofit administration 
-related to intercultural education & exchange.  Outside of work, I enjoy photography, 
+related to intercultural education.  Outside of work, I enjoy photography, 
 spending time outdoors, and playing in symphony orchestras.

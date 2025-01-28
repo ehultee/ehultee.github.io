@@ -9,15 +9,14 @@ redirect_from:
 
 Download slightly dated short-form CV [here](http://ehultee.github.io/files/EHU-short_CV-20220119.pdf) (last update: 19 Jan 2022).
 
-Longer-form CV [here](http://ehultee.github.io/files/CV-EHU-Public24-20240808.pdf) (last update: 8 Aug 2024).  
+Longer-form CV [here](http://ehultee.github.io/files/CV-EHU-20250128.pdf) (last update: 28 Jan 2025).  
 
 {% include base_path %}
 
 Current appointment
 ======
-* 2021--: Middlebury College
-  * Assistant Professor of Earth and Climate Sciences
-    * Scholarly focus: Glaciology and modern climate
+GESTAR-II Cooperative Agreement, Morgan State University & NASA Goddard Space Flight Center
+	* Associate Research Scientist, Cryospheric Sciences Lab
    
 Major awards
 ======
@@ -31,11 +30,13 @@ Education
   * Honours thesis title: Energy conditions with nonzero cosmological constant
 
 
-
-
-
+<!-- 
 Past appointments
 ======
+* 2021--2024: Middlebury College
+  * Assistant Professor of Earth and Climate Sciences
+    * Scholarly focus: Glaciology and modern climate
+
 * 2021: Georgia Institute of Technology
   * Postdoctoral Fellow
     * Areas of focus: Ice sheet surface mass balance, stochastic modelling
@@ -65,6 +66,7 @@ Past appointments
   * Undergraduate Research Intern, Centre for Global Change Science
     * Area of focus: Influence of surface hydrology on gravimetry estimates of polar ice loss
     * Advisor: W. Richard Peltier
+ -->
   
 Specialized training and certifications
 ==============

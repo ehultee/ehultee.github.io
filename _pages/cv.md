@@ -15,7 +15,7 @@ Longer-form CV [here](http://ehultee.github.io/files/CV-EHU-20250128.pdf) (last 
 
 Current appointment
 ======
-GESTAR-II Cooperative Agreement, Morgan State University & NASA Goddard Space Flight Center
+* GESTAR-II Cooperative Agreement, Morgan State University & NASA Goddard Space Flight Center
 	* Associate Research Scientist, Cryospheric Sciences Lab
    
 Major awards

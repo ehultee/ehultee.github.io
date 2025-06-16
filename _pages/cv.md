@@ -9,7 +9,7 @@ redirect_from:
 
 Download slightly dated short-form CV [here](http://ehultee.github.io/files/EHU-short_CV-20220119.pdf) (last update: 19 Jan 2022).
 
-Longer-form CV [here](http://ehultee.github.io/files/CV-EHU-20250128.pdf) (last update: 28 Jan 2025).  
+Longer-form CV [here](http://ehultee.github.io/files/CV-EHU-20250604.pdf) (last update: 4 Jun 2025).  
 
 {% include base_path %}
 
@@ -73,9 +73,9 @@ Specialized training and certifications
 * Wilderness First Aid (SOLO certified through 2024)
 * Mental Health First Aid (MHFA USA certified through 2025)
 * Polar safety:
-	* Crevasse rescue and glacier travel (Ice Journey Iceland, trained 2022)
+	* Crevasse rescue and glacier travel (Ice Journey Iceland, trained 2022; re-trained 2025)
 	* NSF OPP Polar Risk Management (workshop co-organizer, 2021)
-
+	* Glacier field experience in Greenland (2021-2025) and North Cascade National Park (2023)
 
 <!--
 Publications

@@ -9,7 +9,7 @@ redirect_from:
 
 Download slightly dated short-form CV [here](http://ehultee.github.io/files/EHU-short_CV-20220119.pdf) (last update: 19 Jan 2022).
 
-Longer-form CV [here](http://ehultee.github.io/files/CV-EHU-20250604.pdf) (last update: 4 Jun 2025).  
+Longer-form CV [here](http://ehultee.github.io/files/CV-EHU-20251201.pdf) (last update: 1 Dec 2025).  
 
 {% include base_path %}
 
